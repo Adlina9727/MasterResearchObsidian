@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md"
               }
             }
           },
@@ -155,8 +155,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d6bfd687d4bce83",
+  "active": "da7fed95319c592f",
   "lastOpenFiles": [
+    "List of Paper/001 Introduction/Untitled 1.md",
+    "List of Paper/001 Introduction/Collection of the Paper📝.md",
+    "List of Paper/001 Introduction",
+    "List of Paper/Collection in PDF/001 Introduction",
+    "List of Paper/Collection in PDF",
     "List of Paper",
     "Welcome.md"
   ]
