@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Paper/001 Introduction/Collection of the Paper📝.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "da7fed95319c592f",
   "lastOpenFiles": [
-    "List of Paper/001 Introduction/Untitled 1.md",
     "List of Paper/001 Introduction/Collection of the Paper📝.md",
+    "List of Paper/002 PDF Paper Collection/Beyza 2021.pdf",
+    "List of Paper/002 PDF Paper Collection/Tamanna 2021.pdf",
+    "List of Paper/002 PDF Paper Collection/Soumia 2024.pdf",
+    "List of Paper/002 PDF Paper Collection",
+    "List of Paper/001 Introduction/PDF.md",
     "List of Paper/001 Introduction",
     "List of Paper/Collection in PDF/001 Introduction",
     "List of Paper/Collection in PDF",
