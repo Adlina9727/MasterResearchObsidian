@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "A🗂️ List of Paper/001 Introduction/Collection of the Paper📝.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "A🗂️ List of Paper/001 Introduction/Collection of the Paper📝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "A🗂️ List of Paper/001 Introduction/Collection of the Paper📝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "A🗂️ List of Paper/001 Introduction/Collection of the Paper📝.md"
               }
             }
           },
@@ -152,16 +152,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5d6bfd687d4bce83",
+  "active": "da7fed95319c592f",
   "lastOpenFiles": [
+    "A🗂️ List of Paper/002 PDF Paper Collection/Tamanna 2021.pdf",
+    "A🗂️ List of Paper/001 Introduction/Collection of the Paper📝.md",
+    "README.md",
     "C 📝 Activity",
     "B 📑 Description of Paper",
-    "A🗂️ List of Paper/001 Introduction/Collection of the Paper📝.md",
     "A🗂️ List of Paper/002 PDF Paper Collection/Beyza 2021.pdf",
-    "A🗂️ List of Paper/002 PDF Paper Collection/Tamanna 2021.pdf",
     "A🗂️ List of Paper/002 PDF Paper Collection/Soumia 2024.pdf",
     "A🗂️ List of Paper/002 PDF Paper Collection",
     "List of Paper/001 Introduction/PDF.md",
